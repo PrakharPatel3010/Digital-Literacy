@@ -24,7 +24,7 @@ Created an infographic using **Canva** explaining:
 - Safe internet practices  
 - Importance of professional online presence  
 
-File: `task 1-presentation/`
+File: `Task_1`
 
 ---
 
@@ -34,7 +34,7 @@ Set up professional profiles on:
 - LinkedIn  
 - (Optional platform like Kaggle / Stack Overflow)
 
-Screenshots included in `task-2-portfolio/`
+Screenshots included in `Task_2_Portfolios`
 
 ---
 
@@ -42,9 +42,9 @@ Screenshots included in `task-2-portfolio/`
 - Completed a beginner coding challenge on a platform like **HackerRank**
 - Created a **Google Form quiz** for digital literacy awareness  
 
-Files in `task- 3-platforms/`
+Files in `Task_3_Platform`
 
-**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLScCq7rway31AlF3OLC5vYz5ipRkSCIPxbNmFLFqiKpDybEQGg/viewform?usp=publish-editor
+**Google Form Link:**https://docs.google.com/forms/d/e/1FAIpQLScCq7rway31AlF3OLC5vYz5ipRkSCIPxbNmFLFqiKpDybEQGg/viewform?usp=publish-editor
 
 ---
 
@@ -54,7 +54,7 @@ Files in `task- 3-platforms/`
   - Internship application  
 - Created a **Social Media Do’s & Don’ts checklist**
 
-Files in `task-4-email-etiquette/`
+Files in `Task_4_Email_Etequettes`
 
 ---
 
@@ -62,14 +62,14 @@ Files in `task-4-email-etiquette/`
 - Wrote a case study on a cybercrime (e.g., UPI fraud / phishing)
 - Created a **prevention checklist** for students  
 
-Files in `task-5-cybercrime/`
+Files in `Task_5_Cybercrime`
 
 ---
 
 ## 📄 Project Report
 The detailed report covering all tasks, reflections, and learnings is available here:
 
- `report/Project_Report.pdf`
+ `Project_Report.pdf`
 
 ---
 
